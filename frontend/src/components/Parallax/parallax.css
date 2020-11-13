@@ -1,0 +1,9 @@
+.parallax p {
+    /* width: 30vw; */
+    padding-left: 50px;
+    padding-right: 60vw;
+    margin-bottom: 60px;
+}
+h2 {
+    padding: 5vw;
+}

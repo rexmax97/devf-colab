@@ -1,0 +1,22 @@
+.Slider {
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+  }
+
+  .Slider img {
+    width: 100vw;
+    height: 70vh;
+    position: relative;
+  }
+  .rec.rec-arrow {
+visibility: hidden;}
+
+.rec.rec-dot {
+    border-radius: 0;
+    color: black;
+    margin-top: -50px;
+    z-index: 1;
+}

@@ -1,0 +1,10 @@
+export { default as PrivateRoute } from './PrivateRoute/PrivateRoute.jsx' 
+export { default as Message } from './Message/Message.jsx'
+export { default as Effect } from './Effect/Effect.jsx'
+export { default as PriceList } from './PriceList/PriceList.jsx'
+export { default as Form } from './Form/Form.jsx'
+export { default as Navbar } from './Navbar/Navbar.jsx'
+export { default as Slider } from './Slider/Slider.jsx'
+export { default as Modulos } from './Modulos/Modulos.jsx'
+export { default as Para } from './Parallax/Parallax.jsx'
+

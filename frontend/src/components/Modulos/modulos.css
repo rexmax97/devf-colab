@@ -1,0 +1,24 @@
+.modulos {
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 70vh;
+    /* padding: 30px; */
+  }
+.modulos .rec.rec-arrow {
+visibility: visible;
+}
+
+.modulos .rec.rec-dot {
+    visibility: hidden;
+}
+.modulos .rec.rec-carousel-item{
+  padding: 20px;
+
+}
+.card-img-top {
+  /* border-radius: 50%; */
+
+  height: 200px;
+}
